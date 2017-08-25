@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Arrancando\MayorYMenor\bin\Debug\MayorYMenor.exe.config
+C:\Users\Usuario\source\repos\Arrancando\MayorYMenor\bin\Debug\MayorYMenor.exe
+C:\Users\Usuario\source\repos\Arrancando\MayorYMenor\bin\Debug\MayorYMenor.pdb
+C:\Users\Usuario\source\repos\Arrancando\MayorYMenor\obj\Debug\MayorYMenor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Arrancando\MayorYMenor\obj\Debug\MayorYMenor.exe
+C:\Users\Usuario\source\repos\Arrancando\MayorYMenor\obj\Debug\MayorYMenor.pdb

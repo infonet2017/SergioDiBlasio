@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Arrancando\AumentoSueldo\bin\Debug\AumentoSueldo.exe.config
+C:\Users\Usuario\source\repos\Arrancando\AumentoSueldo\bin\Debug\AumentoSueldo.exe
+C:\Users\Usuario\source\repos\Arrancando\AumentoSueldo\bin\Debug\AumentoSueldo.pdb
+C:\Users\Usuario\source\repos\Arrancando\AumentoSueldo\obj\Debug\AumentoSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Arrancando\AumentoSueldo\obj\Debug\AumentoSueldo.exe
+C:\Users\Usuario\source\repos\Arrancando\AumentoSueldo\obj\Debug\AumentoSueldo.pdb
+C:\Users\Usuario\source\repos\Arrancando\AumentoSueldo\obj\Debug\AumentoSueldo.csprojResolveAssemblyReference.cache

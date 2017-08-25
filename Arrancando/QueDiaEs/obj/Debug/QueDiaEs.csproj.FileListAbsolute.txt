@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Arrancando\QueDiaEs\bin\Debug\QueDiaEs.exe.config
+C:\Users\Usuario\source\repos\Arrancando\QueDiaEs\bin\Debug\QueDiaEs.exe
+C:\Users\Usuario\source\repos\Arrancando\QueDiaEs\bin\Debug\QueDiaEs.pdb
+C:\Users\Usuario\source\repos\Arrancando\QueDiaEs\obj\Debug\QueDiaEs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Arrancando\QueDiaEs\obj\Debug\QueDiaEs.exe
+C:\Users\Usuario\source\repos\Arrancando\QueDiaEs\obj\Debug\QueDiaEs.pdb

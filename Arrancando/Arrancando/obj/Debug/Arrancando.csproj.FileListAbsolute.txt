@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Arrancando\Arrancando\bin\Debug\Arrancando.exe.config
+C:\Users\Usuario\source\repos\Arrancando\Arrancando\bin\Debug\Arrancando.exe
+C:\Users\Usuario\source\repos\Arrancando\Arrancando\bin\Debug\Arrancando.pdb
+C:\Users\Usuario\source\repos\Arrancando\Arrancando\obj\Debug\Arrancando.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Arrancando\Arrancando\obj\Debug\Arrancando.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Arrancando\Arrancando\obj\Debug\Arrancando.exe
+C:\Users\Usuario\source\repos\Arrancando\Arrancando\obj\Debug\Arrancando.pdb

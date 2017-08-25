@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Arrancando\ConsecutivosONo\bin\Debug\ConsecutivosONo.exe.config
+C:\Users\Usuario\source\repos\Arrancando\ConsecutivosONo\bin\Debug\ConsecutivosONo.exe
+C:\Users\Usuario\source\repos\Arrancando\ConsecutivosONo\bin\Debug\ConsecutivosONo.pdb
+C:\Users\Usuario\source\repos\Arrancando\ConsecutivosONo\obj\Debug\ConsecutivosONo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Arrancando\ConsecutivosONo\obj\Debug\ConsecutivosONo.exe
+C:\Users\Usuario\source\repos\Arrancando\ConsecutivosONo\obj\Debug\ConsecutivosONo.pdb
